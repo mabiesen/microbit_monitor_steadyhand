@@ -1,2 +1,2 @@
 # microbit_monitor_steadyhand
-Microbit repo for containing steady hand code.  As of this time, written with a Pythonic mentality, may not function in micropython.
+Project is a work in progress, please disregard as of 4/30/2017
